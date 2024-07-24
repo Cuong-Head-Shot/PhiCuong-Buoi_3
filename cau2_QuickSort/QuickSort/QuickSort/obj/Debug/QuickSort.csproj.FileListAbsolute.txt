@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\QuickSort\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\QuickSort\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\QuickSort\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.pdb

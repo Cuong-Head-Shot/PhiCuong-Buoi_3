@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tim kiem nhi phan\tim kiem nhi phan co de qui\tim kiem nhi phan co de qui\bin\Debug\tim kiem nhi phan co de qui.exe.config
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tim kiem nhi phan\tim kiem nhi phan co de qui\tim kiem nhi phan co de qui\bin\Debug\tim kiem nhi phan co de qui.exe
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tim kiem nhi phan\tim kiem nhi phan co de qui\tim kiem nhi phan co de qui\bin\Debug\tim kiem nhi phan co de qui.pdb
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tim kiem nhi phan\tim kiem nhi phan co de qui\tim kiem nhi phan co de qui\obj\Debug\tim kiem nhi phan co de qui.exe
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tim kiem nhi phan\tim kiem nhi phan co de qui\tim kiem nhi phan co de qui\obj\Debug\tim kiem nhi phan co de qui.pdb

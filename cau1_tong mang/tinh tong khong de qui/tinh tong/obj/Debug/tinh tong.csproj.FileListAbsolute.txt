@@ -1,0 +1,12 @@
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong\tinh tong\bin\Debug\tinh tong.exe.config
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong\tinh tong\bin\Debug\tinh tong.exe
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong\tinh tong\bin\Debug\tinh tong.pdb
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong\tinh tong\obj\Debug\tinh tong.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong\tinh tong\obj\Debug\tinh tong.exe
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong\tinh tong\obj\Debug\tinh tong.pdb
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong khong de qui\tinh tong\bin\Debug\tinh tong.exe.config
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong khong de qui\tinh tong\obj\Debug\tinh tong.exe
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong khong de qui\tinh tong\obj\Debug\tinh tong.pdb
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong khong de qui\tinh tong\bin\Debug\tinh tong.exe
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong khong de qui\tinh tong\bin\Debug\tinh tong.pdb
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong khong de qui\tinh tong\obj\Debug\tinh tong.csprojResolveAssemblyReference.cache

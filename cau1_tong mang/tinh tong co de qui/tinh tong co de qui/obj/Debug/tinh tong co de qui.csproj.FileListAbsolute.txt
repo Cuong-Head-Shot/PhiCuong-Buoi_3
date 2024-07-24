@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong co de qui\tinh tong co de qui\bin\Debug\tinh tong co de qui.exe.config
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong co de qui\tinh tong co de qui\bin\Debug\tinh tong co de qui.exe
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong co de qui\tinh tong co de qui\bin\Debug\tinh tong co de qui.pdb
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong co de qui\tinh tong co de qui\obj\Debug\tinh tong co de qui.exe
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_Buoi3\tong mang\tinh tong co de qui\tinh tong co de qui\obj\Debug\tinh tong co de qui.pdb
